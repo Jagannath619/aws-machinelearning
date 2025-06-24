@@ -1,14 +1,12 @@
 # 🚀 Welcome to the Amazon Bedrock Course
 
-![Amazon Bedrock Banner](https://via.placeholder.com/900x200?text=Amazon+Bedrock+Course)
-
 ---
 
 ## 📘 What is Amazon Bedrock?
 
 **Amazon Bedrock** is a service from AWS that provides an **API endpoint** (application programming interface) to interact with pre‑trained **generative AI models**.
 
-![Bedrock Overview](https://via.placeholder.com/800x400?text=Bedrock+Service+Overview)
+
 
 ### 🔍 Key Highlights
 
@@ -19,8 +17,6 @@
 ---
 
 ## 🔐 Security First
-
-![Security Shield](https://via.placeholder.com/800x300?text=AWS+Security+Shield)
 
 Security is top of mind:
 <img width="1042" alt="Screenshot 2025-06-25 at 12 11 32 AM" src="https://github.com/user-attachments/assets/a09c1cd5-8370-42c3-88e9-acba92895018" />
@@ -39,7 +35,7 @@ Bedrock integrates with:
 
 ## 🗂️ Using Your Own Data
 
-![Amazon S3 Integration](https://via.placeholder.com/800x400?text=S3+Integration+with+Bedrock)
+
 
 You can store your custom data in **Amazon S3**, and Bedrock can use it to answer questions. This gives **you full control** over the data referenced during inference.
 
@@ -47,7 +43,7 @@ You can store your custom data in **Amazon S3**, and Bedrock can use it to answe
 
 ## 🤖 Going Beyond Text — Introducing Agents for Amazon Bedrock
 
-![Agents Workflow](https://via.placeholder.com/800x400?text=Agents+for+Amazon+Bedrock+Workflow)
+
 
 What if your generative AI needs to:
 
@@ -67,11 +63,15 @@ Agents allow generative AI to:
 
 ## 💡 Benefits of Using Amazon Bedrock
 
-![AI and ML Benefits](https://via.placeholder.com/800x300?text=Benefits+of+Amazon+Bedrock)
+<img width="1357" alt="Screenshot 2025-06-25 at 12 16 31 AM" src="https://github.com/user-attachments/assets/44db9e5b-fb72-4fcb-892e-95771928ae8b" />
+
 
 - **Agility**: Experiment and iterate quickly
 - **Fail Fast, Learn Faster**: Minimize risk with low upfront investment
 - **Leverage AWS Experience**: Built on decades of Amazon's AI and ML expertise
+<img width="1300" alt="Screenshot 2025-06-25 at 12 18 07 AM" src="https://github.com/user-attachments/assets/7fe73144-d220-405e-9edf-7e7523b3fa01" />
+
+  
 
 Think about it — if you’ve ever:
 
