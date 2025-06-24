@@ -23,6 +23,7 @@
 ![Security Shield](https://via.placeholder.com/800x300?text=AWS+Security+Shield)
 
 Security is top of mind:
+![Uploading Screenshot 2025-06-25 at 12.08.42 AM.png…]()
 
 - **Encryption by Default**: Your data, prompts, and responses are always encrypted.
 - **Data Isolation**: Your data is **never used** to train or retrain the base model.
