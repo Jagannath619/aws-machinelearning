@@ -5,6 +5,9 @@ This guide outlines the steps to create and deploy a Generative AI Chat Agent ap
 ---
 
 ## Workflow
+![deepseek_mermaid_20250625_7ffeda](https://github.com/user-attachments/assets/70726a33-1468-404a-bdf3-870e71ab58b3)
+
+
 
 Follow these steps to set up your environment, create a project, and experiment with your chat agent app.
 
